@@ -1,5 +1,5 @@
 Website: https://incredible-gmod.ru  
-Discord: https://discord.incredible-gmod.ru (the russian guild for devs, mainly aimed at the gmod and lua)  
+Discord: https://discord.incredible-gmod.ru <sub><sup>(the russian guild for devs, mainly aimed at the gmod and lua)</sup></sub>  
 Donate: https://incredible-gmod.ru#donate  
 GModStore: https://www.gmodstore.com/users/beelzebub  
   
