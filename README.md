@@ -1,6 +1,7 @@
 Website: https://incredible-gmod.ru  
-Discord: https://discord.incredible-gmod.ru  
+Discord: https://discord.incredible-gmod.ru (the russian guild for devs, mainly aimed at the gmod and lua)  
 Donate: https://incredible-gmod.ru#donate  
+GModStore: https://www.gmodstore.com/users/beelzebub  
   
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Be1zebub"/>  
 <img alt="Metrics" src="https://metrics.lecoq.io/Be1zebub?template=classic&config.timezone=Asia%2FKrasnoyarsk"/>
