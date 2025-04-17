@@ -4,5 +4,5 @@ Donate: https://incredible-gmod.ru#donate
 GModStore: https://www.gmodstore.com/users/beelzebub  
   
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Be1zebub"/>  
-<img alt="Metrics" src="https://metrics.lecoq.io/Be1zebub?template=classic&config.timezone=Asia%2FKrasnoyarsk"/>
+<img alt="Metrics" src="https://github-readme-stats.vercel.app/api?username=Be1zebub"/>
 
