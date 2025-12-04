@@ -33,3 +33,6 @@ user:
     - FiveM
     - GMod
 ```
+
+![git-pf-stats-svg](https://github.com/Be1zebub/git-pf-stats-svg/raw/master/output/stats.svg)  
+pf stats are generated with [github.com/Be1zebub/git-pf-stats-svg](https://github.com/Be1zebub/git-pf-stats-svg)
