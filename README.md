@@ -1,7 +1,9 @@
+![Cat jam](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/cat-jam.webp)  
+
 [![npm](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/npm.svg)](https://www.npmjs.com/~gmod.one) [![Discord guild](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/discord.svg)](https://discord.gmod.one) [![gmodstore](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/gmodstore.svg)](https://www.gmodstore.com/users/beelzebub) [![telegram](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/telegram.svg)](https://t.me/be1zebub)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Be1zebub) [![Email](https://badgen.net/static/email/contact@gmod.one/blue)](mailto:contact@gmod.one)  
-![Cat jam](https://github.com/Be1zebub/Be1zebub/raw/refs/heads/main/cat-jam.webp)  
+
 
 ```yaml
 user:
