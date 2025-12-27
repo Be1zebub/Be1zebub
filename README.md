@@ -34,5 +34,9 @@ user:
     - GMod
 ```
 
-![git-pf-stats-svg](https://github.com/Be1zebub/git-pf-stats-svg/raw/master/output/stats.svg)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Be1zebub/git-pf-stats-svg/raw/master/output/dark.svg">
+  <img alt="Github stats" src="https://github.com/Be1zebub/git-pf-stats-svg/raw/master/output/light.svg">
+</picture>
+
 pf stats are generated with [github.com/Be1zebub/git-pf-stats-svg](https://github.com/Be1zebub/git-pf-stats-svg)
